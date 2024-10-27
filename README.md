@@ -14,5 +14,6 @@ Système de détection sismique basé sur Arduino utilisant le MPU6050.
 - Buzzer
 - Bouton reset
 
-## Auteur
-[Votre Nom]
+## Auteurs
+SAMI BOUCHNAFA 
+MOUADDEN MOHAMMED
